@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hello, I'm MANSAB 👋
 
@@ -7,36 +7,39 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 
 ---
 
-## 💻 Tech Stack:
+#### 💻 Tech Stack
 
-| Technology      | Proficiency |
-|------------------|-------------|
-| HTML5 & CSS3     | 🌟🌟🌟🌟🌟 |
-| JavaScript       | 🌟🌟🌟🌟🌟 |
-| React.js         | 🌟🌟🌟🌟🌟 |
-| Node.js          | 🌟🌟🌟🌟🌟 |
-| MongoDB          | 🌟🌟🌟🌟🌟 |
-| Python           | 🌟🌟🌟🌟🌟 |
-| Firebase         | 🌟🌟🌟🌟🌟 |
-| TailwindCSS      | 🌟🌟🌟🌟 |
-| MySQL            | 🌟🌟🌟🌟 |
-| Chakra UI        | 🌟🌟🌟🌟 |
-| Vercel & Netlify | 🌟🌟🌟🌟 |
-| Postman          | 🌟🌟🌟🌟 |
-| GitHub           | 🌟🌟🌟🌟 |
-| Figma            | 🌟🌟🌟🌟 |
+| *Technology*      | *Proficiency* |
+|----------------------|-----------------|
+ 🌐 *HTML5 & CSS3*  🌟🌟🌟🌟🌟 
+ 💻 *JavaScript*    🌟🌟🌟🌟🌟 
+ ⚛️ *React.js*      🌟🌟🌟🌟🌟 
+ 🌐 *Node.js*       🌟🌟🌟🌟🌟 
+ 📊 *MongoDB*       🌟🌟🌟🌟🌟 
+ 🐍 *Python*        🌟🌟🌟🌟 
+ 🔥 *Firebase*      🌟🌟🌟🌟 
+ 🗄️ *MySQL*         🌟🌟🌟🌟 
+ 🎨 *TailwindCSS*   🌟🌟🌟 
+ 🎯 *Chakra UI*     🌟🌟🌟 
+ 🛠️ *GitHub*        🌟🌟🌟🌟 
+ 🎨 *Figma*         🌟🌟🌟 
+ 🚀 *Vercel & Netlify* 🌟🌟🌟
 
 ---
 
 ## 📈 Projects
-1. **Project Name**: [CRIME PORTAL]
-2. **Project Name**: [ YT CLONE]
+
+---
+
+## 📈 Projects
+1. **Project Name**: CRIME PORTAL
+2. **Project Name**:  YT CLONE
 
 
 
 ## 📚 Education
-- **[Degree]** in **[BCA]** from **[IPU DELHI]**  
-  _[Year of Graduation 2024]_  
+- **Degree** in **BCA** from **IPU DELHI**  
+  _Year of Graduation 2024  
 
 ---
 
