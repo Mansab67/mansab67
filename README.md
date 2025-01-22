@@ -9,7 +9,7 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 
 #### 💻 Tech Stack
 
-| *Technology*      | *Proficiency* |
+| *Technology*      | |
 |----------------------|-----------------|
  🌐 *HTML5 & CSS3*  🌟🌟🌟🌟🌟 
  💻 *JavaScript*    🌟🌟🌟🌟🌟 
