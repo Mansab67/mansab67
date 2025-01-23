@@ -27,13 +27,12 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 
 ---
 
-## 📈 Projects
 
 ---
 
 ## 📈 Projects
-1. **Project Name**: CRIME PORTAL
-2. **Project Name**:  YT CLONE
+1. **Project Name**: CRIME PORTAL**:https://crimepetrol.netlify.app/
+2. **Project Name**:  Movie Stream**:https://shimmering-kitsune-443682.netlify.app/
 
 
 
