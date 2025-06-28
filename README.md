@@ -25,7 +25,7 @@ A dynamic full-stack web developer with expertise in building scalable applicati
  🎨 *Figma*         🌟🌟🌟 
  🚀 *Vercel & Netlify* 🌟🌟🌟
 
----
+--
 
 
 ---
