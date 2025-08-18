@@ -45,7 +45,7 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 ## 🔎 Find Me Online
 - **GitHub**: https://github.com/Mansab67
 - **LinkedIn**:https://www.linkedin.com/in/mansab-mehto-212431295/
-- **Portfolio**: https://mna-portfolio-pi.vercel.app
+- **Portfolio**: https://portfolio-final-mansab.netlify.app
 - **Email**: mansabmehta67@gmail.com
 
 
