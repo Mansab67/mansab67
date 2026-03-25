@@ -28,17 +28,11 @@ A dynamic full-stack web developer with expertise in building scalable applicati
 --
 
 
----
-
-## 📈 Projects
-1. **Project Name**: CRIME PORTAL**:https://crimepetrol.netlify.app/
-2. **Project Name**:  Movie Stream**:https://shimmering-kitsune-443682.netlify.app/
-
 
 
 ## 📚 Education
 - **Degree** in **BCA** from **IPU DELHI**  
-  _Year of Graduation 2024  
+  Year of Graduation 2024  
 
 ---
 
